@@ -38,6 +38,10 @@ h2 {
     bottom: 65px;
 }
 
+img:nth-child(6) {
+    padding: 0px 8px 0px 0px;
+}
+
 #posted-date {
     font-family: 'Source Sans Pro', sans-serif;
     position: relative;
